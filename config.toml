@@ -1,0 +1,7 @@
+baseURL = "/"
+footnoteReturnLinkContents = "↩"
+title = "My Hugo Site"
+theme="hugo-theme-docdock"
+[params]
+themeStyle="flex"
+themeVariant="green"
